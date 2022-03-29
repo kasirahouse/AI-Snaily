@@ -29,3 +29,6 @@ pandas
 # extras --------------------------------------
 thop  # FLOPS computation
 pycocotools>=2.0  # COCO mAP
+
+freeglut3-dev
+libgtk2.0-dev
